@@ -1,4 +1,4 @@
-threatre_capacity = 350
+threatre_capacity = 35045
 minimum_age = 12
 max_booking_per_person = 15
 
